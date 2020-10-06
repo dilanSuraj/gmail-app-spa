@@ -1,7 +1,7 @@
 
 let token = window.localStorage.getItem("gmailtoken");
 
-const BACKEND_API = "http://localhost:5000/";
+const BACKEND_API = "https://github.com/dilanSuraj/gmail-app-api/";
 const DEFAULT_HEADER_INFO = {
     "Content-Type":"application/json"
 }
